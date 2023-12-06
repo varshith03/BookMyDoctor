@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4175cf8.css",
+    "main.js": "/static/js/main.6131e84b.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/signup_as_patient.svg": "/static/media/signup_as_patient.7882c7f39eb12c1d73c7bab3688d30fa.svg",
+    "static/media/hero-app-image_2.png": "/static/media/hero-app-image_2.b53e8413a249a4b044fd.png",
+    "static/media/feature_doctor_search.svg": "/static/media/feature_doctor_search.bfaf7d490334f181459a9d550da06b19.svg",
+    "static/media/signup_as_doctor.svg": "/static/media/signup_as_doctor.85fea289ddfa59204ef9621c945f1085.svg",
+    "static/media/feature_time_saving.svg": "/static/media/feature_time_saving.d23631fb5a10ad59739129c8bc465b10.svg",
+    "static/media/feature_easy_to_use.svg": "/static/media/feature_easy_to_use.c1fa608379642a5fbc0e0c67cb9db136.svg",
+    "static/media/logo.svg": "/static/media/logo.1a056118fc03b4b229f0662f4ec17717.svg",
+    "index.html": "/index.html",
+    "main.d4175cf8.css.map": "/static/css/main.d4175cf8.css.map",
+    "main.6131e84b.js.map": "/static/js/main.6131e84b.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4175cf8.css",
+    "static/js/main.6131e84b.js"
+  ]
+}
