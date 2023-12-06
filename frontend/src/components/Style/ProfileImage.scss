@@ -1,0 +1,13 @@
+.profile-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    overflow: hidden;
+
+    img{
+        width: 100%;
+    }
+}

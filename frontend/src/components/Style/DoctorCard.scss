@@ -1,0 +1,33 @@
+.doctor-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+  background-color: white;
+  border-radius: 4px;
+  gap: 8px;
+
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+
+    .text {
+      .doctor-speciality {
+        opacity: 0.75;
+      }
+    }
+  }
+
+  .clinic-address {
+    display: flex;
+    gap: 8px;
+    opacity: .75;
+
+    .icon {
+      color: #E14D2A;
+    }
+  }
+
+
+}

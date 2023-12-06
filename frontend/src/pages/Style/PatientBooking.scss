@@ -1,0 +1,35 @@
+#patient-booking {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 10px;
+    max-width: 600px;
+    margin: auto;
+
+    .session-selector {
+        display: flex;
+        flex-wrap: wrap;
+
+        gap: 4px;
+
+        .session-time-button {
+            background-color: #eeeeee;
+            width: max-content;
+            padding: 8px 24px;
+            border-radius: 50px;
+            border: 1px solid #0081C9;
+            cursor: pointer;
+
+            &.active {
+                background-color: #0081C9;
+                color: white;
+            }
+
+            &.disabled {
+                opacity: 0.4;
+                border: 1px solid #E14D2A;
+
+            }
+        }
+    }
+}

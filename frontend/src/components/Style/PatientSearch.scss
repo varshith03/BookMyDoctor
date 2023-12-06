@@ -1,0 +1,14 @@
+#patient-search {
+
+    max-width: 600px;
+    margin: auto;
+
+    .search-list {
+        margin: 10px;
+        margin-top: 34px;
+
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+}
