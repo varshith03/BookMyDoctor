@@ -1,4 +1,4 @@
-# doctor-appointment
+# BookyMyDoctor
 A doctor appointment system developed using MERN stack
 
 Deployed using netlify
